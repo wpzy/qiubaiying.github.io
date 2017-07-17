@@ -1,13 +1,13 @@
 # Site settings
 title: My Blog
 SEOTitle: 伍沛的博客 | wupei's Blog
-#header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpg
 email: buptwupei@gmail.com
 description: "做一点微小的贡献，谢谢大家"
-keyword: "BY, BY Blog, 伍沛的博客, wupei, 伍沛, machine learning"
-url: "http://wupei.github.io"          # your host, for absolute URL
+keyword: " 伍沛的博客, wupei, 伍沛, machine learning"
+url: "http://wpzy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wpzy/wupei.github.io.git" # you code repository
+github_repo: "https://github.com/wpzy/wpzy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
