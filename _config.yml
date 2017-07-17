@@ -1,8 +1,8 @@
 # Site settings
 title: BY Blog
-SEOTitle: 伍沛的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+SEOTitle: 伍沛的博客 | wupei's Blog
+#header-img: img/post-bg-desk.jpg
+email: buptwupei@gmail.com
 description: "做一点微小的贡献，谢谢大家"
 keyword: "BY, BY Blog, 伍沛的博客, wupei, 伍沛, machine learning"
 url: "http://wupei.github.io"          # your host, for absolute URL
